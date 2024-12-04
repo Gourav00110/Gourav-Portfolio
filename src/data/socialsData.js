@@ -6,5 +6,5 @@ export const socialsData = {
     
     twitter: 'https://twitter.com/',
     reddit: 'https://www.reddit.com/user/',
-    youtube: 'https://youtube.com/gouravmandloi'
+    youtube: 'https://youtube.com/@gouravmandloi-w9o?si=uI5nbnAe9rsTEzsf'
 }
